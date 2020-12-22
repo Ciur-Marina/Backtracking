@@ -11,5 +11,5 @@ Se presupune că există o funcție care primește ca parametru o combinație de
 Este o tehnică de programare aplicabilă algoritmilor care oferă mai multe soluții și are ca rezultat obținerea tuturor soluțiilor problemei. Fiecare soluție se memoreaza într-o structură de date de tip stivă implementată cu ajutorul unui vector. Deci fiecare soluție poate fi pusă sub forma unui vector.
 # Rezultatele algoritmului :
 
-https://user-images.githubusercontent.com/75802856/102916222-dcc56900-448b-11eb-92c9-732515820c11.jpg
+[] https://user-images.githubusercontent.com/75802856/102916222-dcc56900-448b-11eb-92c9-732515820c11.jpg
 
