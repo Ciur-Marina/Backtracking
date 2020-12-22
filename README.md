@@ -1,7 +1,7 @@
 # Backtracking
 spargerea unui cifru din n cifre https://repl.it/@CiurMarina/Bactraking#main.c
 # Scopul proiectul dat: 
-Se presupune că există o funcție care primește ca parametru o combinație de n cifre luate câte c elemente și returnează toate combinările posibile.
+Returnarea tutoror combinaților posibile a unei funcții care primește ca parametru o combinație de n cifre luate câte c elemente.
 ## Metoda backtracking este recomandată în cazul problemelor care îndeplinesc simultan următoarele condiții:
 1.soluția lor poate fi pusă sub forma unui vector S=(x1,x2, ...,xn)
 2.fiecare element al soluției xi poate să ia valori intr-o mulțime Ai
